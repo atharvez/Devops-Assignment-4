@@ -1,11 +1,11 @@
-﻿# DevOps Assignment 4 ðŸ
+# DevOps Assignment 4
 
-University DevOps coursework â€” Assignment 4: Python microservice with full DevOps practices.
+University DevOps coursework -- Assignment 4: Python microservice with full DevOps practices.
 
 ## Topics Covered
 
 - Python microservice development (FastAPI)
-- Docker & Docker Compose
+- Docker and Docker Compose
 - GitHub Actions CI/CD
 - Health check endpoints and structured logging
 
@@ -17,10 +17,10 @@ cd Devops-Assignment-4
 pip install -r app/requirements.txt
 python app/main.py
 
-# Or with Docker
+# Or with Docker:
 docker-compose up --build
 ```
 
 ## Course
 
-DevOps Engineering â€” [Atharva Desai](https://github.com/atharvez)
+DevOps Engineering -- Atharva Desai
